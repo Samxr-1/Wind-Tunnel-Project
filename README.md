@@ -30,7 +30,7 @@ Some of the questions I hope to investigate include:
 
 One of the fundamental equations used to describe aerodynamic drag is:
 
-\(F_D = \frac{1}{2}\rho v^2 C_D A\)
+$\(F_D = \frac{1}{2}\rho v^2 C_D A\)$
 
 Where:
 
@@ -42,7 +42,7 @@ Where:
 
 The project will also consider the Reynolds number:
 
-\(Re = \frac{\rho v L}{\mu}\)
+$\(Re = \frac{\rho v L}{\mu}\)$
 
 Where:
 
