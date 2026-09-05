@@ -128,6 +128,7 @@ Planned software functionality includes:
 wind-tunnel/
 │
 ├── README.md
+├── BOM.csv
 │
 ├── CAD/
 │   └── design-files
